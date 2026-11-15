@@ -1,6 +1,6 @@
 {
   "name": "dsh-logo-swap",
-  "description": "DeepSeek Harness 品牌自定义插件：支持替换侧栏 Logo、品牌字标（DeepSeek 与 Harness 两半独立设置）、对话页 Logo、欢迎语标语，并可控制预览版徽章显示。每项均可独立设置显示/隐藏、替换图片、缩放（50%–300%），支持一键恢复默认。纯前端注入，不修改任何安装文件，DSH 升级不受影响。",
+  "description": "DeepSeek Harness 品牌自定义插件：替换侧栏 Logo、品牌字标、对话页 Logo、欢迎语标语；预览版徽章支持官方/隐藏/自定义文字三模式。出厂预设可通过源码常量或设置面板修改。纯前端注入，不修改任何安装文件，DSH 升级不受影响。",
   "version": "1.0.0",
   "type": "module",
   "main": "lib/index.js",
